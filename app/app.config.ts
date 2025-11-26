@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Sink',
+  title: 'CdnTR',
   email: 'contact@cdn-tr1.com',
   github: '#',
   twitter: '#',
